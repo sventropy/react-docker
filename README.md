@@ -21,5 +21,5 @@ From repository root:
 
 ```sh
 docker build -t react-docker-app .
-docker run -it -p 8080:80 react-docker-app
+docker run -it -p 7777:7777 react-docker-app
 ```
